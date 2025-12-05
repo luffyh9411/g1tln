@@ -1,2 +1,2 @@
 learn brach
-learn git
+learn git simple
